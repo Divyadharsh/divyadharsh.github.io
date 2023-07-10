@@ -16,10 +16,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #-------------------------------
 # About Section
 subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
-location: "United States of America, USA"
 resume_url: "/docs/Divyadharshini_Muruganandham_Resume.pdf"
 avatar_image: "/img/photo.jpg"
-aboutme: "About Me"
+
 
 #-------------------------------
 # Contact links
