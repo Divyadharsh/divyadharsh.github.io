@@ -24,7 +24,6 @@ aboutme: "About Me"
 # Contact links
 linkedln: https://www.linkedin.com/in/muruganandhamd/ # Add your linkedln handle
 github: "https://github.com/Divyadharsh"  # Add your github handle
-aboutMe: "https://www.linkedin.com/in/danleedata/"
 
 paginate: 6
 paginate_path: "/page/:num"
